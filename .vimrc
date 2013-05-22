@@ -183,5 +183,5 @@ let OmniCpp_ShowPrototypeInAbbr = 1
 "autocmd InsertLeave * if pumvisible() == 0|pclose|endif
 
 "temp"
-
+  
 
